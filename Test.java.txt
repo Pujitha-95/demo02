@@ -3,6 +3,6 @@ class Test
 public void doProcess()
 {
 
-System.out.println("Puji")
+System.out.println("Pujitha");
 }
 }
